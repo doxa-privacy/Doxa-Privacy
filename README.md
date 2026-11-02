@@ -25,6 +25,6 @@ Purpose	Why is it shared?
 A privacy notice either discloses these clearly or leaves them ambiguous, and ambiguity is where enforcement actions start.
 
 Get started
-Scan your website, free and instant
-Take the Compliance Profile, about 2 minutes
-See pricing 
+https://doxaprivacycompliance.com/#scan , free and instant
+https://doxaprivacycompliance.com/compliance-profile , about 2 minutes
+https://doxaprivacycompliance.com/pricing 
